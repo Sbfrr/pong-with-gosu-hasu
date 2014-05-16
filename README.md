@@ -9,7 +9,7 @@ It was largely inspired by a talk at [Madison Ruby 2013](http://www.confreaks.co
 
 ## Motivation
 
-I wanted to build a basic Game to learn the basic mechanisms of it and understand its patterns. My goal is to build on this experienceto make a ruby add-on for Gosu to enable people to easily play games from different machines.
+I wanted to build a basic Game to learn its mechanisms and patterns. My goal is to build on this experience in order to make a ruby add-on for Gosu to enable people to easily play games from different machines.
 
 You can follow the evolution of the add-on here:
 [Multiplayer library for Gosu](https://github.com/Sbfrr/multiplayer-library-for-gosu).
